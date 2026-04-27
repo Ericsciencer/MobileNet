@@ -4,6 +4,7 @@
 
 ### 结果 | Result
 
+<img width="2480" height="1914" alt="mobilenet_training_curve" src="https://github.com/user-attachments/assets/5a573b68-980d-4b0a-bbf4-cf31956f4bfc" />
 
 
 
